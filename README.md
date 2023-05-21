@@ -6,6 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img align='right' alt="Coding" width="400" src="https://www.vecteezy.com/vector-art/2403601-woman-working-at-laptop-from-home">
 <a href="https://linkedin.com/in/alpha-shree-nepal-9ba400200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpha-shree-nepal-9ba400200" height="30" width="40" /></a>
 </p>
 
